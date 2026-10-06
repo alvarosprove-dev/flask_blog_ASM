@@ -1,3 +1,5 @@
+Álvaro Sousa Mejias
+
 Flaskr
 ======
 
